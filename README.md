@@ -5,7 +5,7 @@
 - `shocks/shocks_ecb_mpd_me_m.csv` - Monetary Policy and Central Bank Information shocks, aggregated to monthly frequency (zero if no shocks in a given month)
 
 #### Construction of the shocks:
-- `shocks/main.m` - Matlab script (calls other Matlab functions)
+- `code/main.m` - Matlab script (calls other Matlab functions)
 
 #### Source data: 
 Dataset_EA-MPD.xlsx - financial variables "surprises" around ECB Governing Council announcements from 1999 to 2023, created by Altavilla, Brugnolini, Gürkaynak, Motto, Ragusa (2019) Measuring euro area monetary policy,
